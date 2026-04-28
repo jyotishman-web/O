@@ -21,7 +21,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
              <Link to="/" className="flex items-center gap-2 group">
-                <img src="/dynatek-logo.png" alt="Dynatek Logo" className="h-10 w-auto object-contain" />
+                <img src="/rk-logo.png" alt="Dynatek Logo" className="h-10 w-auto object-contain" />
                 <span className={`font-bold text-xl tracking-tight uppercase ${location.pathname === '/' ? 'text-white' : 'text-slate-900'}`}>{STORE_CONFIG.name}</span>
              </Link>
           </div>

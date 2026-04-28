@@ -24,7 +24,7 @@ export function Home() {
     <div 
       className="flex flex-col min-h-screen relative bg-slate-900"
       style={{
-        backgroundImage: "url('/bg.jpg')",
+        backgroundImage: "url('/bg1.png')",
         backgroundSize: 'cover',
         backgroundAttachment: 'fixed',
         backgroundPosition: 'center'
