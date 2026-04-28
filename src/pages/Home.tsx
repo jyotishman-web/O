@@ -41,7 +41,7 @@ export function Home() {
              <div className="absolute inset-0 bg-gradient-to-r from-slate-900/90 max-w-xl to-transparent z-0"></div>
           </div>
           <div className="absolute top-6 right-8 z-10 hidden sm:block">
-            <span className="text-4xl sm:text-5xl font-black text-white/80 tracking-widest drop-shadow-lg select-none" style={{ letterSpacing: '0.15em' }}>DYNATEK</span>
+            <span className="text-4xl sm:text-5xl font-black text-white/80 tracking-widest drop-shadow-lg select-none" style={{ letterSpacing: '0.15em' }}>RK COMPUTERS</span>
           </div>
           <div className="relative z-10">
             <motion.div
